@@ -223,8 +223,4 @@ void draw(){
   vertex(354, 0);
   vertex(400, 0);
   endShape();
-  //cordenadas
-  fill(255, 0, 255);
-  textSize(30);
-  text(mouseX + " - " + mouseY, mouseX, mouseY);
 }
