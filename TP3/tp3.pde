@@ -1,3 +1,12 @@
+/*
+Nombre y Apellido: Martiniano Santarelli
+Comisión 3
+TP 3
+2026
+
+video: https://youtu.be/HdYfgTHnPlA
+*/
+
 PImage miImagen;
 int cont;
 color col1;
